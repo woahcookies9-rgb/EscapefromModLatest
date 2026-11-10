@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 305e821ed005d9045b6eba208cc062fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 407872
+  packageName: Vintage Computer Keyboard
+  packageVersion: 1.0
+  assetPath: Assets/Vintage Keyboard/Materials/M_Keyboard_Housing.mat
+  uploadId: 995500

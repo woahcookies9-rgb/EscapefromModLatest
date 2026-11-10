@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e839ed529a4632043bbf14813108bb40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 407872
+  packageName: Vintage Computer Keyboard
+  packageVersion: 1.0
+  assetPath: Assets/Vintage Keyboard/Prefabs/Keyboard_Vintage.prefab
+  uploadId: 995500

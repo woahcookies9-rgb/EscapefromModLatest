@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b61a9860b86ec84499a5beb34015dd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 407872
+  packageName: Vintage Computer Keyboard
+  packageVersion: 1.0
+  assetPath: Assets/Vintage Keyboard/Materials/M_Keyboard_Cable.mat
+  uploadId: 995500

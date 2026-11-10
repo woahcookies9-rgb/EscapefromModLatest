@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d083058ce0451b94c8460c4b02aa6cef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 407872
+  packageName: Vintage Computer Keyboard
+  packageVersion: 1.0
+  assetPath: Assets/Vintage Keyboard/Materials/M_Keyboard_Seam.mat
+  uploadId: 995500

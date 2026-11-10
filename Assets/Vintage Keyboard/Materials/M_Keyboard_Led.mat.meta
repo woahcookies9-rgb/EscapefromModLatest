@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 479cf564ee90b37438eb131ed5548c2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 407872
+  packageName: Vintage Computer Keyboard
+  packageVersion: 1.0
+  assetPath: Assets/Vintage Keyboard/Materials/M_Keyboard_Led.mat
+  uploadId: 995500
